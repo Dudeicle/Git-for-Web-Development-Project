@@ -27,7 +27,7 @@ https://codepen.io/Dudeicle/pen/OJyzBVj?editors=1000
     13. How do I get my link to open in a new tab?
             Target='blank'.
     14. What is the alt attribute in the image tag used for? 
-
+            An alternate image to be shown in the case of slow internet or error.
     15. How do I reference an id?
             # hashtag.
     16. What is the difference between a section and a div
@@ -35,24 +35,43 @@ https://codepen.io/Dudeicle/pen/OJyzBVj?editors=1000
     17. What is CSS used for? 
             Styling a website, adding to HTML.
     18. How to we select an element? Example - every h2 on the page
+            h2 {} would select all h2 on the page.
     19. What is the difference between a class and an id? - Give me an example of when I might use each one
+            An id is like a name, to give something a unique identity. While class is like a group identity.
     20. How do we select classes in CSS?
+            A period . will select a class.
     21. How do we select a p element with a single class of “human””?
+            .human p {} this will select that p element.
     22. What is a parent child selector? When would this be useful? 
+            Parent-child refers to elements insie of other elements. A selector for this would be more specfic.
     23. How do you select all links within a div with the class of sidebar?
+            .sidebar a {} this would specify .sidebar and then the links within.
     24. What is a pseudo selector?
+            A selector for elements in a specific state, like a :hover.
     25. What do we use the change the spacing between lines?
+            line-height will change spacing.
     26. What do we use to change the spacing between letters?
+            letter-spacing will change spacing.
     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+            text-transform: will change text to one of those items or others like none.
     28. How do I add a 1px border around my div that is dotted and black?
+            border: 1px dotted black
     29. How do I select everything on the page? 
+            * star or universal selector
     30. How do I write a comment in CSS?
+            // double slash will allow commenting without effecting code //
     31. How do I find out what file I am in, when I am using the command line? 
+            pwd will show the file path.
     32. Using the command line - how do I see a list of files/folders in my current folder?
+            
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    
     34. Why should I use version control? 
+    
     35. How often should I commit to github?
+    
     36. What is the command we would use to push our repo up to github? 
+    
     37. Walk me through Lambda's git flow. 
 
 Stretch Questions
