@@ -63,21 +63,25 @@ https://codepen.io/Dudeicle/pen/OJyzBVj?editors=1000
     31. How do I find out what file I am in, when I am using the command line? 
             pwd will show the file path.
     32. Using the command line - how do I see a list of files/folders in my current folder?
-            
+            ls will show this list
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
-    
+            rm will remove a file, there are NO safe gaurds when doing this, no warnings or file recovery.
     34. Why should I use version control? 
-    
+            So that many coders can cooperate on a project and contribute without breaking each other's code.
     35. How often should I commit to github?
-    
+            20min or after a significant functioning segment is finished
     36. What is the command we would use to push our repo up to github? 
-    
+            git push
     37. Walk me through Lambda's git flow. 
-
+            After saving a project in VS Code, I would then go to my Git Bash and use git add -> git commit -> git push
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+            An inline element will show contents horizontally, while a block will allow contents to sit on their own horizontal line.
     2. What happens when an element is positioned absolutely? 
+
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+            
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
