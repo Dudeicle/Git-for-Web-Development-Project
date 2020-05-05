@@ -5,15 +5,23 @@ https://codepen.io/Dudeicle/pen/OJyzBVj?editors=1000
     2. What is HTML used for? 
         It's used for the structure of our website.
     3. What is an attribute and where do we put it?
-        
+        An attribute effects code, we put an attribute inside of an element.
     4. What is the h1 tag used for? How many times should I use it on a page?
+        The h1 tag is used as the title or most important header.
     5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
+        The a tag and the img tag.
+    6. What do we put in the head of our HTML document?
+        The head of the HTML doc can have h1 or <html> or <body>. 
     7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
+        An id is a way of specifying a tag.
+    8. What elements can I add an id to?
+        Any element.
+    9. How many times can I use the same id on a page?
+        Only once. 
     10. What is a class? 
-    11. What elements can I add a class to? 
+        Another device for specifiying.
+    11. What elements can I add a class to?
+         
     12. How many times can I use the same class on a page? 
     13. How do I get my link to open in a new tab?
     14. What is the alt attribute in the image tag used for? 
